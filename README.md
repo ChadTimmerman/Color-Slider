@@ -12,8 +12,8 @@ A UISlider that controls the background color written in Swift.
 
 ##Installation
 * The code uses a standard UISlider for the controls
-* I wrote a custom Float extension which converts the UISlider value (which returns a Float) to a CGFloat
-* The CGFloat value can then be entered into the Hue value of UIColor to control the background color
+* I wrote a custom Float extension which converts the UISlider value (returns a Float) to a CGFloat
+* The CGFloat value is then entered into the Hue value of UIColor to control the background color
 
 ##License 
 MIT License
